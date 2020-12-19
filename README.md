@@ -8,3 +8,4 @@
 - Cтоит удалить (или отключить в настройках IDE) классы JDK пакета `javax.script` сборки `java.scripting`
 - Подключённая библиотека сама переопределит классы и встроит их в JDK.
 
+Исходники кода можно найти в ветке [`dev`](https://github.com/urec-programmec/algebra_helper/tree/dev)
